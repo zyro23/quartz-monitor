@@ -11,3 +11,7 @@ plugin.xml
 .project
 .settings/*
 target-eclipse/**
+/bin
+/build
+/.gradle
+/.settings

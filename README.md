@@ -30,11 +30,3 @@ Allows you to change the sitemesh layout that page will use. Defaults to 'main'.
 
 If this is set to true, then the names of the triggers will be shown in the list - useful if you have multiple triggers for the same job.
 
-###showCountdown
-
-Will add javascript to the page in order to show a countdown to when the job will fire next, unless this is set to 'false'.
-
-###showTickingClock
-
-Will add javascript to the page in order to show a clock with the current time, unless this is set to 'false'.
-
